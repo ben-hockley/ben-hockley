@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, DevOps and AI.**
 
-- 👨‍💻 Learn more about me and view my favourite personal projects on my [personal portfolio](https://ben-hockley.github.io/portfolio_/)
+- 👨‍💻 Learn more about me and view my favourite projects on my [personal portfolio](https://ben-hockley.github.io/portfolio_/)
 
 - 📫 How to reach me **hockleyben4@gmail.com**
 
