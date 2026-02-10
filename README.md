@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ben Hockley</h1>
-<h3 align="center">Software Engineer, Cardiff</h3>
+<img width="2900" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/c561789d-7ff0-4872-be2d-ee83ad6043f7" />
+
 
 - 🔭 I’m currently working on **my final-year project at the NSA, Cardiff University.**
 
