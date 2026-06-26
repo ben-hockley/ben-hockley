@@ -1,4 +1,4 @@
-Software Engineer @ The Alacrity Foundation
+## Software Engineer @ The Alacrity Foundation
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
