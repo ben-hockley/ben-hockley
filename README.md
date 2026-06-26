@@ -1,13 +1,4 @@
-<img width="2900" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/c561789d-7ff0-4872-be2d-ee83ad6043f7" />
-
-
-- 🔭 I’m currently working on **my final-year project at the NSA, Cardiff University.**
-
-- 🌱 I’m currently learning **Machine Learning, DevOps and AI.**
-
-- 👨‍💻 Learn more about me and view my favourite projects on my [personal portfolio](https://ben-hockley.github.io/portfolio_/)
-
-- 📫 How to reach me **hockleyben4@gmail.com**
+Software Engineer @ The Alacrity Foundation
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
